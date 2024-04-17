@@ -1,5 +1,5 @@
 view: bitcoin {
-view_label:'First_bitcoin'
+view_label:'First_bitcoinasdfasdasda'
   sql_table_name: `ronald-van-heerikhuize-test.Bitcoin.Bitcoin`
     ;;
   drill_fields: [bits,size,number,hash,timestamp_week]
